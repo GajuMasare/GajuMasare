@@ -1,7 +1,7 @@
-- 👋 Yo, It's @GajuMasare
-- 👀 I’m interested in coding duh thats why I am here :/ 
+- 👋 Yo, It's @GajuMasare.
+- 👀 I’m interested in coding. Duh, thats why I am here :/ 
 - 🌱 I’m currently working in Python, JavaScript, React.js, HTML.
-- 💞️ I’m always interested to learn something so if you have any projects then I will love to work with you
+- 💞️ I’m always interested to learn something new so if you have any projects then I will love to work with you.
 - 📫 How to reach me? Mail me at gajumasare@gmail.com
 
 <!---
